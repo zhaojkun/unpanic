@@ -1,5 +1,7 @@
 # unpanic
 
+[![Build Status](https://travis-ci.org/zhaojkun/unpanic.png)](https://travis-ci.org/zhaojkun/unpanic)
+
 `unpanic` is another process manager, it continuously recovers panic process.
 
 ## Installation
